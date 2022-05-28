@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+}
+#inputField{
+    width: 300px;
+    margin: 5px;
+    padding: 7px 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    background-color: whitesmoke;
+}
+.addBtn{
+    width: 323px;
+    margin: 5px;
+    padding: 7px 10px;
+    border-radius: 5px;
+    
+    color: rgb(218, 48, 82);
+    border: 1px solid rgb(218, 48, 82);
+
+
+}
+.addBtn:hover{
+    background-color: rgb(218, 48, 82);
+    color: white;
+}
